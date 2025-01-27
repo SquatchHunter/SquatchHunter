@@ -7,6 +7,7 @@ A brief intro would go here but I am not sure how I want to introduce myself, so
 - ESP32 Development 
 - PCB Manufactorying & Design ⚡
 ### 🔭 I’m currently working on ...
+- [BedrockTweaks](https://bedrocktweaks.net/), Resource Packs & Addons
 - 🚙 a "Plug-and-Play" Modular (but also DIY) CANBUS Connector 
 - 🔌 a "better" Smart Wall Plug for 🇦🇺 Australians ([Athom](https://www.athom.tech/esphome)'s are Great, but that damn button placement...)
 
